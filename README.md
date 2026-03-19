@@ -1,1 +1,0 @@
-# Alpha-8-tetrahedral-torsion
